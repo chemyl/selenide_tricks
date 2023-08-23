@@ -3,7 +3,6 @@
 * Maven
 * Selenide
 * Jupiter
-* Allure
 * Lombok
 * Podam
 ### 
